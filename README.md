@@ -94,6 +94,8 @@ Hey there! I'm **Harshal Tondare**, a pre-final year B.Tech student at **NIT Aru
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-tondare&layout=compact&theme=tokyonight&hide_border=true)-->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Harshal-03?theme=dark&font=Nunito&ext=heatmap)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=harshal-tondare&theme=algolia&hide_border=true&count_private=true)](https://github.com/harshal-tondare)
+
 
 </div>
 
